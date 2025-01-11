@@ -80,6 +80,6 @@ Creates a table with the specified name and column definitions.
 Closes the database connection and cursor gracefully.
 
 ## License
-This project is licensed under the MIT License.
+This project has no License.
 
 
